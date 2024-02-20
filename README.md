@@ -12,19 +12,19 @@ Medical Image Processing (Medip) tools
 [![PyPI version fury.io][pypi-shield]][pypi-url]
 [![Conventional Commits][conventional-commits-shield]][conventional-commits-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/{GITHUB_ACCOUNT}/{REPO_NAME}.svg?style=flat-square
-[contributors-url]: https://github.com/{GITHUB_ACCOUNT}/{REPO_NAME}/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/{GITHUB_ACCOUNT}/{REPO_NAME}.svg?style=flat-square
-[stars-url]: https://github.com/{GITHUB_ACCOUNT}/{REPO_NAME}/stargazers
-[issues-shield]: https://img.shields.io/github/issues/{GITHUB_ACCOUNT}/{REPO_NAME}.svg?style=flat-square
-[issues-url]: https://github.com/{GITHUB_ACCOUNT}/{REPO_NAME}/issues
-[issues-closed-shield]: https://img.shields.io/github/issues-closed/{GITHUB_ACCOUNT}/{REPO_NAME}.svg
-[issues-closed-url]: https://GitHub.com/SPARC-FAIR-Codeathon/sparc-me/issues?q=is%3Aissue+is%3Aclosed
-[license-shield]: https://img.shields.io/github/license/{GITHUB_ACCOUNT}/{REPO_NAME}.svg?style=flat-square
-[license-url]: https://github.com/{GITHUB_ACCOUNT}/{REPO_NAME}/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/ABI-CTT-Group/medip.svg?style=flat-square
+[contributors-url]: https://github.com/ABI-CTT-Group/medip/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/ABI-CTT-Group/medip.svg?style=flat-square
+[stars-url]: https://github.com/ABI-CTT-Group/medip/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ABI-CTT-Group/medip.svg?style=flat-square
+[issues-url]: https://github.com/ABI-CTT-Group/medip/issues
+[issues-closed-shield]: https://img.shields.io/github/issues-closed/ABI-CTT-Group/medip.svg
+[issues-closed-url]: https://GitHub.com/ABI-CTT-Group/medip/issues?q=is%3Aissue+is%3Aclosed
+[license-shield]: https://img.shields.io/github/license/ABI-CTT-Group/medip.svg?style=flat-square
+[license-url]: https://github.com/ABI-CTT-Group/medip/blob/master/LICENSE
 [code-of-conduct-shield]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
-[pypi-shield]: https://badge.fury.io/py/{PYPI_PROJECT_NAME}.svg
-[pypi-url]: https://pypi.python.org/pypi/{PYPI_PROJECT_NAME}}/
+[pypi-shield]: https://badge.fury.io/py/medip.svg
+[pypi-url]: https://pypi.python.org/pypi/medip/
 [conventional-commits-shield]: https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white
 [conventional-commits-url]: https://conventionalcommits.org
 
