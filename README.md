@@ -54,7 +54,7 @@ Please read [ABOUT_THIS_TEMPLATE](ABOUT_THIS_TEMPLATE.md), and delete this secti
 
 Here is the [link](https://pypi.org/project/medip/) to our project on PyPI
 ```
-pip install {PACKAGE_NAME}
+pip install {medip}
 ```
 
 ## Contributing
