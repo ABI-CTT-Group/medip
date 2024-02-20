@@ -52,7 +52,7 @@ Please read [ABOUT_THIS_TEMPLATE](ABOUT_THIS_TEMPLATE.md), and delete this secti
    - 3.9
 ###  Installing via PyPI
 
-Here is the [link](https://pypi.org/project/{PACKAGE_NAME}/) to our project on PyPI
+Here is the [link](https://pypi.org/project/medip/) to our project on PyPI
 ```
 pip install {PACKAGE_NAME}
 ```
@@ -62,7 +62,7 @@ pip install {PACKAGE_NAME}
 See [Contributing](CONTRIBUTING.md)
 
 ## Reporting issues 
-To report an issue or suggest a new feature, please use the [issues page](https://github.com/GITHUB_ACCOUNT/{REPO_NAME}/issues). 
+To report an issue or suggest a new feature, please use the [issues page](https://github.com/ABI-CTT-Group/medip/issues). 
 Please check existing issues before submitting a new one.
 
 ## Contributors
