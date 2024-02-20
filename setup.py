@@ -1,4 +1,4 @@
-"""Python setup.py for package_name package"""
+"""Python setup.py for medip package"""
 import io
 from pathlib import Path
 from setuptools import find_packages, setup
@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 
 def read(*paths, **kwargs):
     """Read the contents of a text file safely.
-    >>> read("package_name", "VERSION")
+    >>> read("medip", "VERSION")
     >>> read("README.md")
     ...
     """
@@ -30,8 +30,8 @@ def read_requirements(path):
     ]
 
 setup(
-    name="package_name",
-    version=read("src/package_name", "VERSION"),
+    name="medip",
+    version=read("src/medip", "VERSION"),
     description="project_description",
     url="https://github.com/author_name/project_urlname/",
     long_description=read("README.md"),
