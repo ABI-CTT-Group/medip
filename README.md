@@ -1,6 +1,6 @@
 # Medip
 
-{SHORT PROJECT DESCRIPTION}
+Medical Image Processing (Medip) tools
 
 ![Python 3](https://img.shields.io/badge/Python->=3.9-blue)
 [![Contributors][contributors-shield]][contributors-url]
