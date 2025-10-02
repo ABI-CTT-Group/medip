@@ -3,7 +3,7 @@ Author: Chinchien Lin
 Email: clin864@auckland.ac.nz
 Organisation: ABI clinical translation technology group
 
-primary packaged: dicomanonymizer: https://pypi.org/project/dicom-anonymizer/
+primary package: dicomanonymizer: https://pypi.org/project/dicom-anonymizer/
 anonymisation for DICOM based on HIPAA standard and with custom rules
 """
 
