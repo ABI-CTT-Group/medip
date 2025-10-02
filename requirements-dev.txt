@@ -9,3 +9,6 @@ sphinx-autoapi
 
 pytest
 gitchangelog
+
+dicom-anonymizer
+pydicom
